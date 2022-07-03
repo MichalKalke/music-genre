@@ -1,4 +1,4 @@
-# music-genre 
+# Music Genre Classification 
 To use this program:
 1. please download kaggle dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
 2. in main please uncomment createJsonFile.save_mfcc()
